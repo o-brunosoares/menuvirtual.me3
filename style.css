@@ -8,6 +8,10 @@
 body{
     background-color: #FFEDD5;
     font-family: 'Roboto', sans-serif;
+    background-image: url(coffee-gd97141abe_1920.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 ul{
@@ -20,6 +24,14 @@ h1, h2, h3, .price{
     font-family: 'Roboto Serif', serif;
     text-transform: uppercase;
     color: #2D2C2A;
+}
+
+.menu{
+    background-color: #FFEDD595;
+    max-width: 320px;
+    margin: 32px auto;
+    border-radius: 20px;
+    padding: 16px;
 }
 
 header{
